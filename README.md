@@ -9,3 +9,7 @@
 
 ## How to use
 
+Go to settings and select datasource.
+
+![alt text](https://github.com/hyperioxx/OracleSBC-LogicMonitor-SIPTables/master/img/logicmonitor1.png)
+
